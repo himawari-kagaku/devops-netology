@@ -6,3 +6,5 @@
 This is a new line
 
 Another line added with PyCharm
+
+Some other change made with PyCharm and visual git editor
